@@ -1,0 +1,67 @@
+{
+  "websites": [
+    {
+      "name": "Netflix",
+      "plans": [
+        {
+          "planName": "Basic",
+          "price": "$9.99/month",
+          "resolution": "720p",
+          "devices": "1 Device"
+        },
+        {
+          "planName": "Standard",
+          "price": "$15.49/month",
+          "resolution": "1080p",
+          "devices": "2 Devices"
+        },
+        {
+          "planName": "Premium",
+          "price": "$19.99/month",
+          "resolution": "4K + HDR",
+          "devices": "4 Devices"
+        }
+      ]
+    },
+    {
+      "name": "Amazon Prime",
+      "plans": [
+        {
+          "planName": "Monthly",
+          "price": "$14.99/month",
+          "benefits": "Prime Video, Free Shipping, Music, Books"
+        },
+        {
+          "planName": "Annual",
+          "price": "$139/year",
+          "benefits": "Prime Video, Free Shipping, Music, Books"
+        },
+        {
+          "planName": "Student",
+          "price": "$7.49/month",
+          "benefits": "50% off, Prime Video, Free Shipping"
+        }
+      ]
+    },
+    {
+      "name": "Adobe Creative Cloud",
+      "plans": [
+        {
+          "planName": "Photography Plan",
+          "price": "$9.99/month",
+          "appsIncluded": "Lightroom, Photoshop"
+        },
+        {
+          "planName": "All Apps Plan",
+          "price": "$54.99/month",
+          "appsIncluded": "All Adobe Creative Apps"
+        },
+        {
+          "planName": "Single App Plan",
+          "price": "$22.99/month",
+          "appsIncluded": "One Adobe App of Choice"
+        }
+      ]
+    }
+  ]
+}
